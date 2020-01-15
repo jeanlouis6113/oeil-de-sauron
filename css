@@ -1,0 +1,18 @@
+.container
+{
+    width: 620px;
+    height: 620px;
+}
+.col-1{
+    height: 2rem;
+    border: 1px solid white;
+}
+.noir{
+    background-color: black;
+}
+.orange{
+    background-color: orange;
+}
+.jaune{
+    background-color: yellow;
+}
