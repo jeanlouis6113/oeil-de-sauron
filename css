@@ -1,18 +1,27 @@
-.container
+.row
 {
-    width: 620px;
-    height: 620px;
+    padding: 0;
+    margin: 0;
 }
-.col-1{
-    height: 2rem;
-    border: 1px solid white;
+.container .row div
+{
+    width: 50px;
+    height: 50px;
+    border: 1px solid #fff;
+    background-color: #fff;
 }
-.noir{
-    background-color: black;
+ 
+.container .row div.noir
+{
+    background-color:black;
 }
-.orange{
-    background-color: orange;
+ 
+.container .row div.orange
+{
+    background-color:orange;
 }
-.jaune{
-    background-color: yellow;
+ 
+.container .row div.jaune
+{
+    background-color:yellow;
 }
